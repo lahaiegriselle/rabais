@@ -1085,23 +1085,87 @@ section.lazy-placeholder:after {
 .cid-s7Dd2wgd0i .mbr-section-btn {
   text-align: left;
 }
-.cid-rNawZq91da {
-  padding-top: 90px;
+.cid-sbY7DelgX4 {
+  background-image: url("../../../assets/images/vlogger-beautune-20161110-1200x800.jpeg");
+}
+.cid-sbY7DelgX4 .column-content {
+  padding-top: 120px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/vlogger-beautune-20161110-1200x800.jpg");
+  background-color: #ffffff;
+  width: 100%;
+  float: right;
+  position: relative;
 }
-.cid-rNawZq91da P {
+.cid-sbY7DelgX4 .text-content .btn-bgr {
+  z-index: 0;
+}
+.cid-sbY7DelgX4 .mbr-overlay {
+  background: linear-gradient(#d6173f -10%, #00113e 75%);
+}
+.cid-sbY7DelgX4 .container-full-width {
+  position: relative;
+}
+.cid-sbY7DelgX4 .text-content {
+  width: 100%;
+  padding: 0 30px;
+  margin: 0 auto;
+}
+.cid-sbY7DelgX4 .layer {
+  display: none;
+  height: 101%;
+  position: absolute;
+  right: 49.9%;
+  top: 0;
+  bottom: 0;
+}
+.cid-sbY7DelgX4 .layer path {
+  fill: #ffffff;
+}
+@media (min-width: 576px) {
+  .cid-sbY7DelgX4 .text-content {
+    width: 540px;
+  }
+  .cid-sbY7DelgX4 .column-content {
+    width: 100%;
+  }
+  .cid-sbY7DelgX4 .layer {
+    display: none;
+  }
+}
+@media (min-width: 768px) {
+  .cid-sbY7DelgX4 .text-content {
+    width: 720px;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sbY7DelgX4 .text-content {
+    width: 480px;
+    margin: 0;
+  }
+  .cid-sbY7DelgX4 .column-content {
+    width: 50%;
+  }
+  .cid-sbY7DelgX4 .layer {
+    display: block;
+  }
+}
+@media (min-width: 1200px) {
+  .cid-sbY7DelgX4 .text-content {
+    width: 570px;
+  }
+}
+@media screen and (-ms-high-contrast: active), (-ms-high-contrast: none) {
+  .cid-sbY7DelgX4 .container-full-width .layer {
+    right: 2.6rem;
+    height: 33rem;
+  }
+  .cid-sbY7DelgX4 .column-content {
+    height: 33rem;
+  }
+}
+.cid-sbY7DelgX4 .mbr-text,
+.cid-sbY7DelgX4 .mbr-section-btn {
   color: #767676;
-}
-.cid-rNawZq91da H1 {
-  color: #ffffff;
-}
-.cid-rNawZq91da .mbr-text,
-.cid-rNawZq91da .mbr-section-btn {
-  color: #ffffff;
-}
-.cid-rNawZq91da DIV {
-  text-align: left;
 }
 .cid-rQJSWiKmdC {
   padding-top: 0px;
