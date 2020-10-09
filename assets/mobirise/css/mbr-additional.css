@@ -1293,6 +1293,138 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
+.cid-scUko2oexN {
+  overflow-x: hidden !important;
+}
+.cid-scUko2oexN,
+.cid-scUko2oexN .scroll-wrapper {
+  padding-top: 225px;
+  padding-bottom: 225px;
+}
+.cid-scUko2oexN .row {
+  backdrop-filter: blur(10px);
+  border: 1px solid white;
+}
+.cid-scUko2oexN .mbr-section-title {
+  color: #ffffff;
+}
+.cid-scUko2oexN .mbr-section-title span {
+  color: #ff7f9f;
+}
+.cid-scUko2oexN .mbr-text {
+  color: #efefef;
+  letter-spacing: 5px;
+  font-weight: 100;
+}
+.cid-scUko2oexN .scroll-wrapper {
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background-position: 50% 50%;
+  background-size: cover;
+  position: absolute;
+  background-repeat: repeat;
+  z-index: 0;
+  -webkit-animation-duration: 30s !important;
+  animation-duration: 30s;
+  background-image: url("../../../assets/images/background10.jpg");
+  -webkit-animation: scroll-wrapper linear infinite;
+  -moz-animation: scroll-wrapper linear infinite;
+  -o-animation: scroll-wrapper linear infinite;
+  animation: scroll-wrapper linear infinite;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+}
+.cid-scUko2oexN .scroll-wrapper.second {
+  left: calc(100% - 1px);
+}
+.cid-scUko2oexN .mbr-overlay {
+  z-index: 1;
+}
+.cid-scUko2oexN .block-content {
+  z-index: 2;
+}
+@keyframes scroll-wrapper {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
+}
+@-webkit-keyframes scroll-wrapper {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
+}
+@-moz-keyframes scroll-wrapper {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
+}
+@-o-keyframes scroll-wrapper {
+  0% {
+    -webkit-transform: translateX(0);
+    transform: translateX(0);
+  }
+  100% {
+    -webkit-transform: translateX(-100%);
+    transform: translateX(-100%);
+  }
+}
+.cid-scUkpUsI9z {
+  background-image: url("../../../assets/images/background16.jpg");
+  background-position: right;
+}
+.cid-scUkpUsI9z .wrapper {
+  backdrop-filter: blur(10px);
+  position: relative;
+  border-top: 3px solid #ffffff;
+  border-right: 3px solid #ffffff;
+  border-left: 3px solid #ffffff;
+  padding: 2.5rem 2.5rem;
+}
+.cid-scUkpUsI9z .wrapper:before {
+  content: "";
+  background: #ffffff;
+  position: absolute;
+  bottom: 0;
+  width: calc(90% - 130px);
+  height: 3px;
+  right: 0;
+}
+.cid-scUkpUsI9z .wrapper:after {
+  content: "";
+  background: #ffffff;
+  position: absolute;
+  bottom: 0;
+  width: 10%;
+  height: 3px;
+  left: 0;
+}
+.cid-scUkpUsI9z img {
+  position: absolute;
+  left: 10%;
+  bottom: -45px;
+  width: 130px;
+}
+@media (max-width: 767px) {
+  .cid-scUkpUsI9z .wrapper {
+    padding: 1rem 1.5rem;
+  }
+}
 .cid-rOGP0qEIKb .modal-body .close {
   background: #1b1b1b;
 }
@@ -1530,52 +1662,6 @@ section.lazy-placeholder:after {
 }
 .cid-rOGP0qEIKb .mbr-overlay ~ .container-slide {
   z-index: auto;
-}
-.cid-scUa58jXBF {
-  padding-top: 105px;
-  padding-bottom: 105px;
-  background-image: url("../../../assets/images/background12.jpg");
-}
-.cid-scUa58jXBF .mbr-section-title {
-  font-weight: bold;
-  letter-spacing: 0.1em;
-  color: #232323;
-  text-align: center;
-}
-.cid-scUa58jXBF .nav {
-  border: none;
-}
-.cid-scUa58jXBF .nav-tabs {
-  -webkit-justify-content: center;
-  justify-content: center;
-  -webkit-flex-wrap: wrap;
-  flex-wrap: wrap;
-}
-.cid-scUa58jXBF .nav-tabs .nav-link {
-  box-sizing: border-box;
-  color: #232323;
-  font-style: normal;
-  font-weight: 500;
-  padding: 1rem 3rem;
-  margin: 0px -0.5px 1rem -0.5px;
-  transition: all .5s;
-  border-radius: 0px !important;
-  border-bottom: 1px solid #232323;
-}
-.cid-scUa58jXBF .nav-tabs .nav-link:hover {
-  border: 1px solid #232323;
-  background-color: #232323;
-  color: #ffffff;
-}
-.cid-scUa58jXBF .nav-tabs .nav-link.active {
-  border: 1px solid #232323;
-  font-weight: 500;
-  color: #ffffff;
-  font-style: normal;
-  background: #232323;
-}
-.cid-scUa58jXBF P {
-  text-align: left;
 }
 .cid-rPCjG69fNO {
   padding-top: 60px;
