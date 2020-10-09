@@ -1201,14 +1201,14 @@
                 "textTitle": "Social <b>Média:</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Partagez sur les réseaux qui vous suivent<br>",
+                "text": "Partagez sur les réseaux qui vous suivent<br>&amp; bénéficiez des avis de vos clients et de vos amis",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>",
                 "overlayOpacity": "0.2",
                 "overlayColor": "#002531"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/gg-1412x704.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1222,14 +1222,14 @@
                 "textTitle": "Google <b>Conforme:</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Nos sites sont conformes aux recpùùandations google pour un meilleur référencement",
+                "text": "Google Bing Facebook Twitter<br>Nos sites sont pensés pour un meilleure visibilité<br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>",
-                "overlayOpacity": "0.5",
-                "overlayColor": "#b1a374"
+                "overlayOpacity": "0.4",
+                "overlayColor": "#002531"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/wordpress-cms-1-1154x766.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": true,
                 "showTitle": true,
@@ -1263,7 +1263,7 @@
                 "textTitle": "Exprimez <b>vous:</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Maitrisez votre communication<br>créez votre blog",
+                "text": "Maitrisez votre communication<br>Développez votre créativité<br>Créez votre Blog perso ou Pro<br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>",
                 "overlayOpacity": "0.2",
                 "overlayColor": "#002531"
@@ -1281,10 +1281,10 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "Boostez votre <b>commerce:</b>",
+                "textTitle": "Boostez votre <b>E-)Commerce:</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Soyez visible sur les avis Google<br>afficher vos heures d'ouverture et vos spécialités",
+                "text": "Soyez visible sur les avis Google<br>meme en période confinement<br>afficher vos heures d'ouverture et vos spécialités<br><br>",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>",
                 "overlayOpacity": "0.1",
                 "overlayColor": "#002531"
@@ -1302,10 +1302,10 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "Site <b>sécurisé:&nbsp;</b><br>",
+                "textTitle": "Site <b>Sécurisé:&nbsp;</b><br>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Bénéficiez des dernières mises à jour pour votre site",
+                "text": "Bénéficiez des dernières mises à jour pour votre site<br>&amp; des technologies anti Hacking",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>",
                 "overlayOpacity": "0.3",
                 "overlayColor": "#002531"
@@ -1344,10 +1344,10 @@
                 "customStyle3": "display-4",
                 "alt": "",
                 "title": "",
-                "textTitle": "Responsive <b>Site:</b>",
+                "textTitle": "Respon<b>Sive:</b>",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Du smartphone à l'écran XXL",
+                "text": "Téléphone Tablette Ordi TV:<br>parce que la taille compte,<br>le bon format quelque soit l'écran",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">Pour MAC</a>",
                 "overlayOpacity": "0"
               }
