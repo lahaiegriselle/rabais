@@ -609,7 +609,7 @@
               }
             },
             "H1": {
-              "text-align": "center"
+              "text-align": "right"
             },
             ".mbr-text, .mbr-section-btn": {
               "text-align": "left"
