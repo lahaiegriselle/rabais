@@ -129,8 +129,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #0f7699 !important;
-  border-color: #0f7699 !important;
+  background-color: #073b4c !important;
+  border-color: #073b4c !important;
   color: #ffffff !important;
 }
 .btn-secondary:hover,
@@ -138,14 +138,14 @@ body {
 .btn-secondary.focus,
 .btn-secondary.active {
   color: #ffffff !important;
-  background-color: #084053 !important;
-  border-color: #084053 !important;
+  background-color: #010506 !important;
+  border-color: #010506 !important;
 }
 .btn-secondary.disabled,
 .btn-secondary:disabled {
   color: #ffffff !important;
-  background-color: #084053 !important;
-  border-color: #084053 !important;
+  background-color: #010506 !important;
+  border-color: #010506 !important;
 }
 .btn-info,
 .btn-info:active {
@@ -293,22 +293,22 @@ body {
 .btn-secondary-outline,
 .btn-secondary-outline:active {
   background: none;
-  border-color: #062e3c;
-  color: #062e3c;
+  border-color: #000000;
+  color: #000000;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
 .btn-secondary-outline.focus,
 .btn-secondary-outline.active {
   color: #ffffff;
-  background-color: #0f7699;
-  border-color: #0f7699;
+  background-color: #073b4c;
+  border-color: #073b4c;
 }
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #0f7699 !important;
-  border-color: #0f7699 !important;
+  background-color: #073b4c !important;
+  border-color: #073b4c !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -428,7 +428,7 @@ body {
   color: #ff7f9f !important;
 }
 .text-secondary {
-  color: #0f7699 !important;
+  color: #073b4c !important;
 }
 .text-success {
   color: #ffffff !important;
@@ -454,7 +454,7 @@ a.text-primary:focus {
 }
 a.text-secondary:hover,
 a.text-secondary:focus {
-  color: #062e3c !important;
+  color: #000000 !important;
 }
 a.text-success:hover,
 a.text-success:focus {
@@ -595,7 +595,7 @@ blockquote {
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
   color: #ffffff !important;
-  background: #0f7699 !important;
+  background: #073b4c !important;
   box-shadow: none !important;
 }
 .lazy-bg {
@@ -626,11 +626,11 @@ section.lazy-placeholder:after {
 .cid-s7DdJlaPXa {
   padding-top: 60px;
   padding-bottom: 0px;
-  background-color: #0f7699;
+  background-color: #073b4c;
 }
 .cid-s7DdJlaPXa .line {
-  background-color: #0f7699;
-  color: #0f7699;
+  background-color: #002531;
+  color: #002531;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -1173,11 +1173,11 @@ section.lazy-placeholder:after {
 .cid-rQJSWiKmdC {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #0f7699;
+  background-color: #073b4c;
 }
 .cid-rQJSWiKmdC .line {
-  background-color: #0f7699;
-  color: #0f7699;
+  background-color: #073b4c;
+  color: #073b4c;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -1223,11 +1223,11 @@ section.lazy-placeholder:after {
 .cid-rPCj6wsUhS {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #0f7699;
+  background-color: #073b4c;
 }
 .cid-rPCj6wsUhS .line {
-  background-color: #0f7699;
-  color: #0f7699;
+  background-color: #073b4c;
+  color: #073b4c;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -1275,11 +1275,11 @@ section.lazy-placeholder:after {
 .cid-rM8VLYiPOb {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #0f7699;
+  background-color: #073b4c;
 }
 .cid-rM8VLYiPOb .line {
-  background-color: #0f7699;
-  color: #0f7699;
+  background-color: #073b4c;
+  color: #073b4c;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -1382,8 +1382,8 @@ section.lazy-placeholder:after {
   float: left;
   margin: 0 1.5rem 0.75rem 0;
   color: #ffffff;
-  background: #0f7699 linear-gradient(to bottom right, #0f7699 25%, #ddf3fd);
-  text-shadow: 0 0 2px #0f7699;
+  background: #073b4c linear-gradient(to bottom right, #073b4c 25%, #419039);
+  text-shadow: 0 0 2px #073b4c;
   border-top-left-radius: 0%;
   border-top-right-radius: 50%;
   border-bottom-right-radius: 50%;
@@ -1397,7 +1397,7 @@ section.lazy-placeholder:after {
   z-index: 1;
 }
 .cid-scUqCGNLl6 H3 {
-  color: #0f7699;
+  color: #073b4c;
 }
 .cid-rOGP0qEIKb .modal-body .close {
   background: #1b1b1b;
@@ -1689,7 +1689,7 @@ section.lazy-placeholder:after {
 .cid-rPCgh84QET {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #0f7699;
+  background-color: #073b4c;
 }
 .cid-rPCgh84QET .media-container-row .mbr-text {
   text-align: left;
