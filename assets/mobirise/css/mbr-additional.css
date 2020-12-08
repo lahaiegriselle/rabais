@@ -1065,6 +1065,8 @@ section.lazy-placeholder:after {
   transition: all .2s;
   border: 1px solid #2d0031;
   padding: 1rem;
+  background: linear-gradient(#f27980, #002531);
+  border: none;
 }
 .cid-s7Dd2wgd0i textarea.form-control {
   min-height: 188px;
