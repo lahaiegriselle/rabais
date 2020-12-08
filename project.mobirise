@@ -56,7 +56,7 @@
         "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/img-163x163-128x128.png",
+    "favicon": false,
     "noImageResize": "",
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
@@ -75,7 +75,7 @@
       "textButton": "OK"
     },
     "uniqCompNum": 66,
-    "versionPublish": "5.2.0",
+    "versionPublish": "5.2.2",
     "screenshot": "screenshot.png",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
     "": "on",
@@ -93,7 +93,8 @@
     "site_lang": "fr",
     "PWA": {
       "enabled": true
-    }
+    },
+    "mbrsiteDomain": "3tmm76gzgt"
   },
   "pages": {
     "index.html": {
